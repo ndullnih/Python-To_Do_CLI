@@ -1,0 +1,21 @@
+# Mengabaikan folder node_modules (untuk proyek Node.js)
+node_modules/
+
+# Mengabaikan file log dari npm atau yarn
+npm-debug.log
+yarn-error.log
+
+# Mengabaikan file cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mengabaikan folder build atau dist
+dist/
+build/
+
+# Mengabaikan file sementara dari macOS
+.DS_Store
+
+# Mengabaikan folder setting dari VS Code
+.vscode/
